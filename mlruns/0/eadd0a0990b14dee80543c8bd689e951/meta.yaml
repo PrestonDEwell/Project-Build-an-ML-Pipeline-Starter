@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eadd0a0990b14dee80543c8bd689e951/artifacts
+end_time: 1704383172201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eadd0a0990b14dee80543c8bd689e951
+run_name: popular-stag-962
+run_uuid: eadd0a0990b14dee80543c8bd689e951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704383154761
+status: 4
+tags: []
+user_id: prestondewell

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1caad34807374a709c27e8add49bce1d/artifacts
+end_time: 1704381551510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1caad34807374a709c27e8add49bce1d
+run_name: rare-shoat-36
+run_uuid: 1caad34807374a709c27e8add49bce1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704381547886
+status: 4
+tags: []
+user_id: prestondewell

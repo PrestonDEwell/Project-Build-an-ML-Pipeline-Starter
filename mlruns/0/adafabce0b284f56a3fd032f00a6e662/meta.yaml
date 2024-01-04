@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/adafabce0b284f56a3fd032f00a6e662/artifacts
+end_time: 1704384620667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adafabce0b284f56a3fd032f00a6e662
+run_name: fun-shark-459
+run_uuid: adafabce0b284f56a3fd032f00a6e662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704384583122
+status: 3
+tags: []
+user_id: prestondewell
