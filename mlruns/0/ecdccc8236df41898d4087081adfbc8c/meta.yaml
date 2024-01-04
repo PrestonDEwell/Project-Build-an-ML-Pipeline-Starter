@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ecdccc8236df41898d4087081adfbc8c/artifacts
+end_time: 1704405863250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecdccc8236df41898d4087081adfbc8c
+run_name: gifted-mole-23
+run_uuid: ecdccc8236df41898d4087081adfbc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704405838362
+status: 3
+tags: []
+user_id: prestondewell
