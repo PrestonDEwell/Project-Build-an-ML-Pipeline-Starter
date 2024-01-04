@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4036733757cf4b478894c3a5136bfa18/artifacts
+end_time: 1704403829719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4036733757cf4b478894c3a5136bfa18
+run_name: hilarious-bug-625
+run_uuid: 4036733757cf4b478894c3a5136bfa18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704403815816
+status: 3
+tags: []
+user_id: prestondewell

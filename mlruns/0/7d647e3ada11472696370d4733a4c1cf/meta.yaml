@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7d647e3ada11472696370d4733a4c1cf/artifacts
+end_time: 1704400942741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d647e3ada11472696370d4733a4c1cf
+run_name: likeable-rook-167
+run_uuid: 7d647e3ada11472696370d4733a4c1cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704400928878
+status: 4
+tags: []
+user_id: prestondewell

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b49c53b854c427285b30ea1eaacb702/artifacts
+end_time: 1704402365269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b49c53b854c427285b30ea1eaacb702
+run_name: masked-auk-107
+run_uuid: 0b49c53b854c427285b30ea1eaacb702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704402353131
+status: 4
+tags: []
+user_id: prestondewell

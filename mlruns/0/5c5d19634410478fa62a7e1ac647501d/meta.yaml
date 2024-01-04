@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c5d19634410478fa62a7e1ac647501d/artifacts
+end_time: 1704402094363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c5d19634410478fa62a7e1ac647501d
+run_name: incongruous-hawk-702
+run_uuid: 5c5d19634410478fa62a7e1ac647501d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704402083133
+status: 4
+tags: []
+user_id: prestondewell

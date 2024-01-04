@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/17d71324d65349babaad719187ba46a0/artifacts
+end_time: 1704400405856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d71324d65349babaad719187ba46a0
+run_name: legendary-frog-840
+run_uuid: 17d71324d65349babaad719187ba46a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704400387349
+status: 4
+tags: []
+user_id: prestondewell

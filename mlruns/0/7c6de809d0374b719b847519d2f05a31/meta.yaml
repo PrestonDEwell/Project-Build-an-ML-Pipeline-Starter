@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c6de809d0374b719b847519d2f05a31/artifacts
+end_time: 1704400942381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c6de809d0374b719b847519d2f05a31
+run_name: upset-ox-358
+run_uuid: 7c6de809d0374b719b847519d2f05a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704400931512
+status: 4
+tags: []
+user_id: prestondewell

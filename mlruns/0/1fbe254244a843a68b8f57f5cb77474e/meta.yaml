@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1fbe254244a843a68b8f57f5cb77474e/artifacts
+end_time: 1704402365605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fbe254244a843a68b8f57f5cb77474e
+run_name: tasteful-lamb-525
+run_uuid: 1fbe254244a843a68b8f57f5cb77474e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704402350539
+status: 4
+tags: []
+user_id: prestondewell

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a45f35ae87fc431985ae71b069d4c8ec/artifacts
+end_time: 1704401934792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a45f35ae87fc431985ae71b069d4c8ec
+run_name: bittersweet-rook-370
+run_uuid: a45f35ae87fc431985ae71b069d4c8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704401922525
+status: 4
+tags: []
+user_id: prestondewell

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e074c46d5714a73a67a55e45ac323f2/artifacts
+end_time: 1704401935138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e074c46d5714a73a67a55e45ac323f2
+run_name: secretive-crab-757
+run_uuid: 4e074c46d5714a73a67a55e45ac323f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704401917815
+status: 4
+tags: []
+user_id: prestondewell
