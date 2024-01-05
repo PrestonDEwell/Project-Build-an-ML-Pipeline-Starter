@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e3c3bf7f0c84e599fe5a458f819e7a2/artifacts
+end_time: 1704493700517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e3c3bf7f0c84e599fe5a458f819e7a2
+run_name: mercurial-asp-647
+run_uuid: 0e3c3bf7f0c84e599fe5a458f819e7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704493663940
+status: 3
+tags: []
+user_id: prestondewell

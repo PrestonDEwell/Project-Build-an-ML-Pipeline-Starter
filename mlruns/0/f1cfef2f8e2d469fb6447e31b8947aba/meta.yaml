@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f1cfef2f8e2d469fb6447e31b8947aba/artifacts
+end_time: 1704493663535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cfef2f8e2d469fb6447e31b8947aba
+run_name: bright-hen-513
+run_uuid: f1cfef2f8e2d469fb6447e31b8947aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704493613335
+status: 3
+tags: []
+user_id: prestondewell

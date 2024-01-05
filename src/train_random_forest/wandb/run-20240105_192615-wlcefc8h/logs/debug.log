@@ -1,0 +1,28 @@
+2024-01-05 19:26:15,634 INFO    MainThread:1124 [wandb_setup.py:_flush():68] Configure stats pid to 1124
+2024-01-05 19:26:15,635 INFO    MainThread:1124 [wandb_setup.py:_flush():68] Loading settings from /home/prestondewell/.config/wandb/settings
+2024-01-05 19:26:15,636 INFO    MainThread:1124 [wandb_setup.py:_flush():68] Loading settings from /mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/settings
+2024-01-05 19:26:15,636 INFO    MainThread:1124 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-01-05 19:26:15,637 INFO    MainThread:1124 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'src/train_random_forest/run.py', 'program': '/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py'}
+2024-01-05 19:26:15,638 INFO    MainThread:1124 [wandb_init.py:_log_setup():478] Logging user logs to /mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240105_192615-wlcefc8h/logs/debug.log
+2024-01-05 19:26:15,640 INFO    MainThread:1124 [wandb_init.py:_log_setup():479] Logging internal logs to /mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240105_192615-wlcefc8h/logs/debug-internal.log
+2024-01-05 19:26:15,642 INFO    MainThread:1124 [wandb_init.py:init():518] calling init triggers
+2024-01-05 19:26:15,644 INFO    MainThread:1124 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-01-05 19:26:15,650 INFO    MainThread:1124 [wandb_init.py:init():571] starting backend
+2024-01-05 19:26:15,651 INFO    MainThread:1124 [wandb_init.py:init():575] setting up manager
+2024-01-05 19:26:15,675 INFO    MainThread:1124 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-01-05 19:26:15,702 INFO    MainThread:1124 [wandb_init.py:init():582] backend started and connected
+2024-01-05 19:26:15,718 INFO    MainThread:1124 [wandb_init.py:init():670] updated telemetry
+2024-01-05 19:26:16,064 INFO    MainThread:1124 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-01-05 19:26:16,904 INFO    MainThread:1124 [wandb_run.py:_on_init():2121] communicating current version
+2024-01-05 19:26:17,120 INFO    MainThread:1124 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.16.1 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-01-05 19:26:17,122 INFO    MainThread:1124 [wandb_init.py:init():758] starting run threads in backend
+2024-01-05 19:26:22,423 INFO    MainThread:1124 [wandb_run.py:_console_start():2101] atexit reg
+2024-01-05 19:26:22,424 INFO    MainThread:1124 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-01-05 19:26:22,425 INFO    MainThread:1124 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-01-05 19:26:22,426 INFO    MainThread:1124 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-01-05 19:26:22,427 INFO    MainThread:1124 [wandb_init.py:init():798] run started, returning control to user process
+2024-01-05 19:26:22,438 INFO    MainThread:1124 [wandb_run.py:_config_callback():1249] config_cb None None {'trainval_artifact': 'trainval_data.csv:latest', 'val_size': 0.2, 'random_seed': 42, 'stratify_by': 'neighbourhood_group', 'rf_config': '/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-05/19-25-53/0/rf_config.json', 'max_tfidf_features': 5, 'output_artifact': 'random_forest_export'}
+2024-01-05 19:26:22,454 INFO    MainThread:1124 [wandb_run.py:_config_callback():1249] config_cb None None {'n_estimators': 100, 'max_depth': 10, 'min_samples_split': 4, 'min_samples_leaf': 3, 'n_jobs': -1, 'criterion': 'mae', 'max_features': 0.5, 'oob_score': True}
+2024-01-05 19:26:51,651 WARNING MsgRouterThr:1124 [router.py:message_loop():77] message_loop has been closed

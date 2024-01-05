@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea521f6c483f41a7af042df13c647d2b/artifacts
+end_time: 1704493768943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea521f6c483f41a7af042df13c647d2b
+run_name: zealous-lynx-634
+run_uuid: ea521f6c483f41a7af042df13c647d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704493537260
+status: 3
+tags: []
+user_id: prestondewell

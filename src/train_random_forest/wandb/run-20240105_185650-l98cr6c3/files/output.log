@@ -1,0 +1,43 @@
+2024-01-05 18:56:55,499 Minimum price: 10, Maximum price: 350
+2024-01-05 18:56:55,515 Preparing sklearn pipeline
+2024-01-05 18:56:55,517 Fitting
+Traceback (most recent call last):
+  File "/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 301, in <module>
+    go(args)
+  File "/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 77, in go
+    sk_pipe.fit(X_train, y_train)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 341, in fit
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 303, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/memory.py", line 353, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 754, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/compose/_column_transformer.py", line 508, in fit_transform
+    result = self._fit_transform(X, y, _fit_transform_one)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/compose/_column_transformer.py", line 435, in _fit_transform
+    return Parallel(n_jobs=self.n_jobs)(
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/parallel.py", line 1863, in __call__
+    return output if self.return_generator else list(output)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/parallel.py", line 1792, in _get_sequential_output
+    res = func(*args, **kwargs)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/utils/fixes.py", line 222, in __call__
+    return self.function(*args, **kwargs)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 754, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 378, in fit_transform
+    Xt = self._fit(X, y, **fit_params_steps)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 303, in _fit
+    X, fitted_transformer = fit_transform_one_cached(
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/memory.py", line 353, in __call__
+    return self.func(*args, **kwargs)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 754, in _fit_transform_one
+    res = transformer.fit_transform(X, y, **fit_params)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/base.py", line 702, in fit_transform
+    return self.fit(X, y, **fit_params).transform(X)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/impute/_base.py", line 288, in fit
+    X = self._validate_input(X, in_fit=True)
+  File "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/impute/_base.py", line 229, in _validate_input
+    raise ValueError("Can only use these strategies: {0} "
+ValueError: Can only use these strategies: ['mean', 'median', 'most_frequent', 'constant']  got strategy=most_Frequent

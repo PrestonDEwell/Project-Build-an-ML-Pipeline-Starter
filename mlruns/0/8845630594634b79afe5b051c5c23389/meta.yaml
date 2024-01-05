@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8845630594634b79afe5b051c5c23389/artifacts
+end_time: 1704493768554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8845630594634b79afe5b051c5c23389
+run_name: brawny-lark-832
+run_uuid: 8845630594634b79afe5b051c5c23389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704493700933
+status: 3
+tags: []
+user_id: prestondewell

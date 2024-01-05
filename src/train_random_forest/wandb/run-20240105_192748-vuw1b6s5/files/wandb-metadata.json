@@ -1,0 +1,112 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-01-05T22:27:49.151278",
+    "startedAt": "2024-01-05T22:27:48.273273",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-05/19-25-53/2/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/PrestonDEwell/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "c4e6bd5437d550e00a7dce0603885de7b92fbc75"
+    },
+    "email": "prestondavidewell@gmail.com",
+    "root": "/mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-VHKSSHN",
+    "username": "prestondewell",
+    "executable": "/home/prestondewell/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 19.522174835205078
+    },
+    "memory": {
+        "total": 3.7276840209960938
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/94dd6f4eaca24fbfbc42acc8430679aa/artifacts
+end_time: 1704490514012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94dd6f4eaca24fbfbc42acc8430679aa
+run_name: intrigued-foal-243
+run_uuid: 94dd6f4eaca24fbfbc42acc8430679aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704490508608
+status: 4
+tags: []
+user_id: prestondewell
