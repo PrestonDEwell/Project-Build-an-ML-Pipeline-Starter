@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb6e17fba5214903ac53f5b175a7dc87/artifacts
+end_time: 1704549447689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb6e17fba5214903ac53f5b175a7dc87
+run_name: kindly-ox-649
+run_uuid: bb6e17fba5214903ac53f5b175a7dc87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704549435004
+status: 3
+tags: []
+user_id: prestondewell

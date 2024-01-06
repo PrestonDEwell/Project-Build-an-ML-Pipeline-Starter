@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af1d7aaeaad44c42be9c4917144239da/artifacts
+end_time: 1704549650112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af1d7aaeaad44c42be9c4917144239da
+run_name: angry-shrike-294
+run_uuid: af1d7aaeaad44c42be9c4917144239da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704549503970
+status: 3
+tags: []
+user_id: prestondewell

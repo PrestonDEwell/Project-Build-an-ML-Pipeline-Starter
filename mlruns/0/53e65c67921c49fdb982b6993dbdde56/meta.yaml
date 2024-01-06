@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53e65c67921c49fdb982b6993dbdde56/artifacts
+end_time: 1704549650963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53e65c67921c49fdb982b6993dbdde56
+run_name: upbeat-crab-884
+run_uuid: 53e65c67921c49fdb982b6993dbdde56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704549430254
+status: 3
+tags: []
+user_id: prestondewell

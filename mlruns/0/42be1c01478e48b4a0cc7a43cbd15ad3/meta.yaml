@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prest/Project-Build-an-ML-Pipeline-Starter/mlruns/0/42be1c01478e48b4a0cc7a43cbd15ad3/artifacts
+end_time: 1704549503908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42be1c01478e48b4a0cc7a43cbd15ad3
+run_name: polite-squirrel-872
+run_uuid: 42be1c01478e48b4a0cc7a43cbd15ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704549481011
+status: 3
+tags: []
+user_id: prestondewell
